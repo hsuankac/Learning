@@ -1,0 +1,7 @@
+# ninja log v5
+5	3733	6710886803492713	qt6ci-15-3_autogen/timestamp	6c485a63268bbe50
+5	3733	6710886803492713	C:/learning/c++/QT/qt6_core_intermediate/section15/build-qt6ci-15-3-Desktop_Qt_6_1_3_MinGW_64_bit-Debug/qt6ci-15-3_autogen/timestamp	6c485a63268bbe50
+3826	8100	6710886853797448	CMakeFiles/qt6ci-15-3.dir/qt6ci-15-3_autogen/mocs_compilation.cpp.obj	62bc2bd9ebc4a9f8
+3734	8276	6710886855729925	CMakeFiles/qt6ci-15-3.dir/main.cpp.obj	7183b3ef8e9a26a1
+3890	8705	6710886860034080	CMakeFiles/qt6ci-15-3.dir/watcher.cpp.obj	4eea5e17282deefe
+8706	9626	6710886869026699	qt6ci-15-3.exe	a0824172e1cae46c

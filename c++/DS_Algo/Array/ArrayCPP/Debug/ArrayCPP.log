@@ -1,0 +1,4 @@
+﻿  ArrayCPP.cpp
+C:\learning\c++\DS_Algo\Array\ArrayCPP\ArrayCPP.cpp(304,38): warning C4099: 'Array': type name first seen using 'class' now seen using 'struct'
+C:\learning\c++\DS_Algo\Array\ArrayCPP\ArrayCPP.cpp(4): message : see declaration of 'Array'
+  ArrayCPP.vcxproj -> C:\learning\c++\DS_Algo\Array\Debug\ArrayCPP.exe

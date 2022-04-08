@@ -1,0 +1,8 @@
+# ninja log v5
+4	4754	6710679386673650	qt6ci-12-4_autogen/timestamp	a72a4b70bab6f6a4
+4	4754	6710679386673650	C:/learning/c++/QT/qt6_core_intermediate/section12/build-qt6ci-12-4-Desktop_Qt_6_1_3_MinGW_64_bit-Debug/qt6ci-12-4_autogen/timestamp	a72a4b70bab6f6a4
+4755	9864	6710679444831462	CMakeFiles/qt6ci-12-4.dir/main.cpp.obj	c5b7fb25773d963a
+4863	9903	6710679445202344	CMakeFiles/qt6ci-12-4.dir/test.cpp.obj	37a09787eab44298
+4932	10868	6710679454874494	CMakeFiles/qt6ci-12-4.dir/qt6ci-12-4_autogen/mocs_compilation.cpp.obj	7672f6de9601bc59
+5001	11071	6710679456885065	CMakeFiles/qt6ci-12-4.dir/converter.cpp.obj	5548ab48943ce6c0
+11076	12461	6710679470559187	qt6ci-12-4.exe	c02ccddcef24736c

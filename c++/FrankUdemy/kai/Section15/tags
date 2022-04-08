@@ -1,0 +1,5 @@
+Account	C:\learning\c++\FrankUdemy\kai\Section15\Challenge\Account.cpp	/^Account::Account(std::string name, double balance) $/;"	function	line:3	class:Account	signature:(std::string name, double balance)	returns:Account :: 
+deposit	C:\learning\c++\FrankUdemy\kai\Section15\Challenge\Account.cpp	/^bool Account::deposit(double amount) {$/;"	function	line:7	class:Account	signature:(double amount)	returns:bool Account :: 
+withdraw	C:\learning\c++\FrankUdemy\kai\Section15\Challenge\Account.cpp	/^bool Account::withdraw(double amount) {$/;"	function	line:16	class:Account	signature:(double amount)	returns:bool Account :: 
+get_balance	C:\learning\c++\FrankUdemy\kai\Section15\Challenge\Account.cpp	/^double Account::get_balance() const {$/;"	function	line:24	class:Account	signature:() const	returns:double Account :: 
+operator <<	C:\learning\c++\FrankUdemy\kai\Section15\Challenge\Account.cpp	/^std::ostream &operator<<(std::ostream &os, const Account &account) {$/;"	function	line:28	signature:(std::ostream &os, const Account &account)	returns:std :: ostream 

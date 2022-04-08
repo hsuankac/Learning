@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<test name="test object">
+    <items>
+        <item key="Key: 0" value="This is item number: 0"/>
+        <item key="Key: 1" value="This is item number: 1"/>
+        <item key="Key: 2" value="This is item number: 2"/>
+        <item key="Key: 3" value="This is item number: 3"/>
+        <item key="Key: 4" value="This is item number: 4"/>
+        <item key="Key: 5" value="This is item number: 5"/>
+        <item key="Key: 6" value="This is item number: 6"/>
+        <item key="Key: 7" value="This is item number: 7"/>
+        <item key="Key: 8" value="This is item number: 8"/>
+        <item key="Key: 9" value="This is item number: 9"/>
+    </items>
+</test>

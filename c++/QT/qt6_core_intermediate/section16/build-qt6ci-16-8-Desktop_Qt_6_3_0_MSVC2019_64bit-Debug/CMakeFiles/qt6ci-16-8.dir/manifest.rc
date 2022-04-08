@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "C:/learning/c++/QT/qt6_core_intermediate/section16/build-qt6ci-16-8-Desktop_Qt_6_3_0_MSVC2019_64bit-Debug/CMakeFiles/qt6ci-16-8.dir/embed.manifest"

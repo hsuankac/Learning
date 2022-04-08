@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "qt6ci-15-3",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "qt6ci-15-3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-qt6ci-15-3-Debug-f9f2d0ffd1f441ffd7f5.json",
+					"name" : "qt6ci-15-3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "qt6ci-15-3_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-qt6ci-15-3_autogen-Debug-5181417597f98bd04a71.json",
+					"name" : "qt6ci-15-3_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "qt6ci-15-3_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-qt6ci-15-3_autogen_timestamp_deps-Debug-5379723e750f9268c84b.json",
+					"name" : "qt6ci-15-3_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/learning/c++/QT/qt6_core_intermediate/section15/build-qt6ci-15-3-Desktop_Qt_6_1_3_MinGW_64_bit-Debug",
+		"source" : "C:/learning/c++/QT/qt6_core_intermediate/section15/qt6ci-15-3"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

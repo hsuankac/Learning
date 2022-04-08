@@ -1,0 +1,21 @@
+# ninja log v5
+3	58920	6709930392479307	qt6ci-11-4_autogen/timestamp	6fa6e304ab7e792d
+3	58920	6709930392479307	C:/learning/c++/QT/qt6_core_intermediate/section11/build-qt6ci-11-4-Desktop_Qt_6_1_3_MinGW_64_bit-Debug/qt6ci-11-4_autogen/timestamp	6fa6e304ab7e792d
+59040	60804	6709930981067292	CMakeFiles/qt6ci-11-4.dir/qt6ci-11-4_autogen/mocs_compilation.cpp.obj	906fadc27adda567
+58921	62867	6709931001651419	CMakeFiles/qt6ci-11-4.dir/main.cpp.obj	f8fa07b4fe709493
+62877	65583	6709931028608641	qt6ci-11-4.exe	92d9d9eebecdf25e
+12	921	6709936061311062	qt6ci-11-4_autogen/timestamp	6fa6e304ab7e792d
+12	921	6709936061311062	C:/learning/c++/QT/qt6_core_intermediate/section11/build-qt6ci-11-4-Desktop_Qt_6_1_3_MinGW_64_bit-Debug/qt6ci-11-4_autogen/timestamp	6fa6e304ab7e792d
+1005	3048	6709936085593684	CMakeFiles/qt6ci-11-4.dir/qt6ci-11-4_autogen/mocs_compilation.cpp.obj	906fadc27adda567
+927	5592	6709936110969667	CMakeFiles/qt6ci-11-4.dir/main.cpp.obj	f8fa07b4fe709493
+10	929	6709936158449826	qt6ci-11-4.exe	92d9d9eebecdf25e
+11	972	6709936897532178	qt6ci-11-4_autogen/timestamp	6fa6e304ab7e792d
+11	972	6709936897532178	C:/learning/c++/QT/qt6_core_intermediate/section11/build-qt6ci-11-4-Desktop_Qt_6_1_3_MinGW_64_bit-Debug/qt6ci-11-4_autogen/timestamp	6fa6e304ab7e792d
+972	2852	6709936920094109	CMakeFiles/qt6ci-11-4.dir/qt6ci-11-4_autogen/mocs_compilation.cpp.obj	906fadc27adda567
+1048	5022	6709936941781162	CMakeFiles/qt6ci-11-4.dir/main.cpp.obj	f8fa07b4fe709493
+5023	5986	6709936951096759	qt6ci-11-4.exe	92d9d9eebecdf25e
+11	57878	6709939594757496	qt6ci-11-4_autogen/timestamp	6fa6e304ab7e792d
+11	57878	6709939594757496	C:/learning/c++/QT/qt6_core_intermediate/section11/build-qt6ci-11-4-Desktop_Qt_6_1_3_MinGW_64_bit-Debug/qt6ci-11-4_autogen/timestamp	6fa6e304ab7e792d
+57954	59757	6709940185073910	CMakeFiles/qt6ci-11-4.dir/qt6ci-11-4_autogen/mocs_compilation.cpp.obj	906fadc27adda567
+57879	61967	6709940207173645	CMakeFiles/qt6ci-11-4.dir/main.cpp.obj	f8fa07b4fe709493
+61967	62931	6709940216309436	qt6ci-11-4.exe	92d9d9eebecdf25e

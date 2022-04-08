@@ -1,0 +1,3 @@
+﻿  Array.c
+C:\learning\c++\DS_Algo\Array\Array\Array.c(370,12): warning C4477: 'scanf_s' : format string '%d' requires an argument of type 'int *', but variadic argument 1 has type 'int'
+  Array.vcxproj -> C:\learning\c++\DS_Algo\Array\Debug\Array.exe

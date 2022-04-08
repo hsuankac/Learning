@@ -1,0 +1,12 @@
+# ninja log v5
+4	4928	6710808302001918	qt6ci-14-7_autogen/timestamp	3cad7c6aa5217885
+4	4928	6710808302001918	C:/learning/c++/QT/qt6_core_intermediate/section14/build-qt6ci-14-7-Desktop_Qt_6_1_3_MinGW_64_bit-Debug/qt6ci-14-7_autogen/timestamp	3cad7c6aa5217885
+5004	9130	6710808350871770	CMakeFiles/qt6ci-14-7.dir/main.cpp.obj	5ed43ece1155fa79
+4928	9593	6710808355494384	CMakeFiles/qt6ci-14-7.dir/qt6ci-14-7_autogen/mocs_compilation.cpp.obj	bc3765262f4bd3cf
+5068	10031	6710808359872346	CMakeFiles/qt6ci-14-7.dir/commander.cpp.obj	3f157a3444e4d083
+10031	11044	6710808369752961	qt6ci-14-7.exe	6231d1f4706ee2d9
+11	1392	6710808766842317	qt6ci-14-7_autogen/timestamp	3cad7c6aa5217885
+11	1392	6710808766842317	C:/learning/c++/QT/qt6_core_intermediate/section14/build-qt6ci-14-7-Desktop_Qt_6_1_3_MinGW_64_bit-Debug/qt6ci-14-7_autogen/timestamp	3cad7c6aa5217885
+1397	5030	6710808810304614	CMakeFiles/qt6ci-14-7.dir/commander.cpp.obj	3f157a3444e4d083
+1476	5447	6710808814488239	CMakeFiles/qt6ci-14-7.dir/qt6ci-14-7_autogen/mocs_compilation.cpp.obj	bc3765262f4bd3cf
+5448	6454	6710808824267024	qt6ci-14-7.exe	6231d1f4706ee2d9

@@ -1,0 +1,90 @@
+std	C:\Users\hsuankai.chang\AppData\Roaming\codelite\tmp\codelite_templates.hpp	/^namespace std { template<typename _Tp> class shared_ptr {$/;"	namespace	line:1
+shared_ptr	C:\Users\hsuankai.chang\AppData\Roaming\codelite\tmp\codelite_templates.hpp	/^namespace std { template<typename _Tp> class shared_ptr { $/;"	class	line:1	namespace:std
+operator ->	C:\Users\hsuankai.chang\AppData\Roaming\codelite\tmp\codelite_templates.hpp	/^    _Tp* operator->();$/;"	prototype	line:2	class:std::shared_ptr	access:private	signature:()	returns:_Tp 
+reset	C:\Users\hsuankai.chang\AppData\Roaming\codelite\tmp\codelite_templates.hpp	/^    void reset( Y* ptr );$/;"	prototype	line:3	class:std::shared_ptr	access:private	signature:( Y* ptr )	returns:void 
+reset	C:\Users\hsuankai.chang\AppData\Roaming\codelite\tmp\codelite_templates.hpp	/^    void reset( Y* ptr, Deleter d );$/;"	prototype	line:4	class:std::shared_ptr	access:private	signature:( Y* ptr, Deleter d )	returns:void 
+reset	C:\Users\hsuankai.chang\AppData\Roaming\codelite\tmp\codelite_templates.hpp	/^    void reset( Y* ptr, Deleter d, Alloc alloc );$/;"	prototype	line:5	class:std::shared_ptr	access:private	signature:( Y* ptr, Deleter d, Alloc alloc )	returns:void 
+get	C:\Users\hsuankai.chang\AppData\Roaming\codelite\tmp\codelite_templates.hpp	/^    _T* get() const;$/;"	prototype	line:6	class:std::shared_ptr	access:private	signature:() const	returns:_T 
+
+
+
+
+__ILLEGAL_BALANCE_EXCEPTION_H__	C:\learning\c++\FrankUdemy\instructor_frank\Section18\Challenge\IllegalBalanceException.h	/^#define __ILLEGAL_BALANCE_EXCEPTION_H__$/;"	macro	line:2
+IllegalBalanceException	C:\learning\c++\FrankUdemy\instructor_frank\Section18\Challenge\IllegalBalanceException.h	/^class IllegalBalanceException: public std::exception$/;"	class	line:4	inherits:std::exception
+noexcept	C:\learning\c++\FrankUdemy\instructor_frank\Section18\Challenge\IllegalBalanceException.h	/^    IllegalBalanceException() noexcept = default;$/;"	member	line:7	class:IllegalBalanceException	access:public
+~IllegalBalanceException	C:\learning\c++\FrankUdemy\instructor_frank\Section18\Challenge\IllegalBalanceException.h	/^    ~IllegalBalanceException()  = default;$/;"	prototype	line:8	class:IllegalBalanceException	access:public	signature:()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+_INSUFFICIENT_FUNDS_EXCEPTION_H	C:\learning\c++\FrankUdemy\instructor_frank\Section18\Challenge\InsufficientFundsException.h	/^#define _INSUFFICIENT_FUNDS_EXCEPTION_H$/;"	macro	line:2
+InsufficientFundsException	C:\learning\c++\FrankUdemy\instructor_frank\Section18\Challenge\InsufficientFundsException.h	/^class InsufficientFundsException: public std::exception$/;"	class	line:4	inherits:std::exception
+noexcept	C:\learning\c++\FrankUdemy\instructor_frank\Section18\Challenge\InsufficientFundsException.h	/^    InsufficientFundsException() noexcept = default;$/;"	member	line:7	class:InsufficientFundsException	access:public
+~InsufficientFundsException	C:\learning\c++\FrankUdemy\instructor_frank\Section18\Challenge\InsufficientFundsException.h	/^    ~InsufficientFundsException() = default;$/;"	prototype	line:8	class:InsufficientFundsException	access:public	signature:()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Account	C:\learning\c++\FrankUdemy\instructor_frank\Section18\Challenge\Account.cpp	/^Account::Account(std::string name, double balance) $/;"	function	line:5	class:Account	signature:(std::string name, double balance)	returns:Account :: 
+deposit	C:\learning\c++\FrankUdemy\instructor_frank\Section18\Challenge\Account.cpp	/^bool Account::deposit(double amount) {$/;"	function	line:11	class:Account	signature:(double amount)	returns:bool Account :: 
+withdraw	C:\learning\c++\FrankUdemy\instructor_frank\Section18\Challenge\Account.cpp	/^bool Account::withdraw(double amount) {$/;"	function	line:20	class:Account	signature:(double amount)	returns:bool Account :: 
+print	C:\learning\c++\FrankUdemy\instructor_frank\Section18\Challenge\Account.cpp	/^ void Account::print(std::ostream &os) const {$/;"	function	line:29	class:Account	signature:(std::ostream &os) const	returns:void Account :: 
+
+
+
+
+main	C:\learning\c++\FrankUdemy\instructor_frank\Section18\Challenge\main.cpp	/^int main() {$/;"	function	line:11	signature:()	returns:int 
+

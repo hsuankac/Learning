@@ -1,0 +1,11 @@
+Determining if the include file pthread.h exists failed with the following output:
+Change Dir: C:/learning/c++/QT/qt6_core_intermediate/section16/build-qt6ci-16-8-Desktop_Qt_6_3_0_MSVC2019_64bit-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Users/hsuankai.chang/AppData/Local/Programs/Python/Python39/Scripts/ninja.exe cmTC_c089a && [1/2] Building CXX object CMakeFiles\cmTC_c089a.dir\CheckIncludeFile.cxx.obj
+FAILED: CMakeFiles/cmTC_c089a.dir/CheckIncludeFile.cxx.obj 
+C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.301\bin\HostX64\x64\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /W3 /GR /EHsc  /MDd /Zi /Ob0 /Od /RTC1 -std:c++17 /showIncludes /FoCMakeFiles\cmTC_c089a.dir\CheckIncludeFile.cxx.obj /FdCMakeFiles\cmTC_c089a.dir\ /FS -c C:\learning\c++\QT\qt6_core_intermediate\section16\build-qt6ci-16-8-Desktop_Qt_6_3_0_MSVC2019_64bit-Debug\CMakeFiles\CMakeTmp\CheckIncludeFile.cxx
+C:\learning\c++\QT\qt6_core_intermediate\section16\build-qt6ci-16-8-Desktop_Qt_6_3_0_MSVC2019_64bit-Debug\CMakeFiles\CMakeTmp\CheckIncludeFile.cxx(1): fatal error C1083: Cannot open include file: 'pthread.h': No such file or directory
+ninja: build stopped: subcommand failed.
+
+
+

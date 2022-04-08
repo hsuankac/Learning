@@ -1,0 +1,8 @@
+# ninja log v5
+3	4303	6711433970953640	qt6ci-16-8_autogen/timestamp	f1813784a544ed0d
+3	4303	6711433970953640	C:/learning/c++/QT/qt6_core_intermediate/section16/build-qt6ci-16-8-Desktop_Qt_6_3_0_MSVC2019_64bit-Debug/qt6ci-16-8_autogen/timestamp	f1813784a544ed0d
+4304	7515	6711434005081013	CMakeFiles/qt6ci-16-8.dir/qt6ci-16-8_autogen/mocs_compilation.cpp.obj	b9681daf39521802
+4353	7525	6711434005071239	CMakeFiles/qt6ci-16-8.dir/consumer.cpp.obj	9ef737ee5b026175
+4332	7527	6711434005168839	CMakeFiles/qt6ci-16-8.dir/main.cpp.obj	1ae1fc332a00ab0
+4378	7529	6711434005207876	CMakeFiles/qt6ci-16-8.dir/producer.cpp.obj	12c64a3b4850a45c
+7530	10503	6711434034235937	qt6ci-16-8.exe	a5251e62b0afa783

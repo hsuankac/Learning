@@ -1,0 +1,5 @@
+C:/learning/c++/QT/qt6_core_intermediate/section11/build-qt6ci-11-3-Desktop_Qt_6_1_3_MinGW_64_bit-Debug/CMakeFiles/qt6ci-11-3.dir
+C:/learning/c++/QT/qt6_core_intermediate/section11/build-qt6ci-11-3-Desktop_Qt_6_1_3_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/learning/c++/QT/qt6_core_intermediate/section11/build-qt6ci-11-3-Desktop_Qt_6_1_3_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/learning/c++/QT/qt6_core_intermediate/section11/build-qt6ci-11-3-Desktop_Qt_6_1_3_MinGW_64_bit-Debug/CMakeFiles/qt6ci-11-3_autogen_timestamp_deps.dir
+C:/learning/c++/QT/qt6_core_intermediate/section11/build-qt6ci-11-3-Desktop_Qt_6_1_3_MinGW_64_bit-Debug/CMakeFiles/qt6ci-11-3_autogen.dir
