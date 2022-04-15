@@ -5,6 +5,9 @@
       location = "container:"
       name = "c">
       <FileRef
+         location = "group:../../../../Desktop/DS_Algo/Matrix/Polynomial/Polynomial.xcodeproj">
+      </FileRef>
+      <FileRef
          location = "group:SparseMatrix/SparseMatrix.xcodeproj">
       </FileRef>
       <FileRef
@@ -17,6 +20,9 @@
    <Group
       location = "container:"
       name = "c++">
+      <FileRef
+         location = "group:../../../../Desktop/DS_Algo/Matrix/SparseMatrixCPP/SparseMatrixCPP.xcodeproj">
+      </FileRef>
       <FileRef
          location = "group:Test/Test.xcodeproj">
       </FileRef>
