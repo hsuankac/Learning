@@ -1,0 +1,5 @@
+/Users/kaichang/Learning/c++/QT/qt6_core_advanced/build-qt6ca-3-8-Qt_6_2_0_for_macOS-Debug/CMakeFiles/rebuild_cache.dir
+/Users/kaichang/Learning/c++/QT/qt6_core_advanced/build-qt6ca-3-8-Qt_6_2_0_for_macOS-Debug/CMakeFiles/edit_cache.dir
+/Users/kaichang/Learning/c++/QT/qt6_core_advanced/build-qt6ca-3-8-Qt_6_2_0_for_macOS-Debug/CMakeFiles/qt6ca-3-8.dir
+/Users/kaichang/Learning/c++/QT/qt6_core_advanced/build-qt6ca-3-8-Qt_6_2_0_for_macOS-Debug/CMakeFiles/qt6ca-3-8_autogen_timestamp_deps.dir
+/Users/kaichang/Learning/c++/QT/qt6_core_advanced/build-qt6ca-3-8-Qt_6_2_0_for_macOS-Debug/CMakeFiles/qt6ca-3-8_autogen.dir

@@ -1,0 +1,10 @@
+# ninja log v5
+0	358	1649532913917996090	qt6ca-3-7_autogen/timestamp	55b98575b07bf7f5
+0	358	1649532913917996090	qt6ca-3-7_autogen/mocs_compilation.cpp	55b98575b07bf7f5
+0	358	1649532913917996090	/Users/kaichang/Learning/c++/QT/qt6_core_advanced/build-qt6ca-3-7-Desktop_x86_darwin_generic_mach_o_64bit-Debug/qt6ca-3-7_autogen/timestamp	55b98575b07bf7f5
+0	358	1649532913917996090	/Users/kaichang/Learning/c++/QT/qt6_core_advanced/build-qt6ca-3-7-Desktop_x86_darwin_generic_mach_o_64bit-Debug/qt6ca-3-7_autogen/mocs_compilation.cpp	55b98575b07bf7f5
+358	1908	1649532915469628401	CMakeFiles/qt6ca-3-7.dir/qt6ca-3-7_autogen/mocs_compilation.cpp.o	c0dd552e46514d86
+359	1920	1649532915479915655	CMakeFiles/qt6ca-3-7.dir/test.cpp.o	7db78a5dcbc4fff5
+359	1938	1649532915502801575	CMakeFiles/qt6ca-3-7.dir/worker.cpp.o	5ff28a82ec986606
+359	2029	1649532915594556846	CMakeFiles/qt6ca-3-7.dir/main.cpp.o	a78d6b723ae6f644
+2030	2094	1649532915665206808	qt6ca-3-7	fd2b31d4b0dff090

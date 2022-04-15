@@ -1,0 +1,5 @@
+/Users/kaichang/Learning/c++/QT/qt6_core_advanced/build-qt6ca-3-7-Desktop_x86_darwin_generic_mach_o_64bit-Debug/CMakeFiles/rebuild_cache.dir
+/Users/kaichang/Learning/c++/QT/qt6_core_advanced/build-qt6ca-3-7-Desktop_x86_darwin_generic_mach_o_64bit-Debug/CMakeFiles/edit_cache.dir
+/Users/kaichang/Learning/c++/QT/qt6_core_advanced/build-qt6ca-3-7-Desktop_x86_darwin_generic_mach_o_64bit-Debug/CMakeFiles/qt6ca-3-7.dir
+/Users/kaichang/Learning/c++/QT/qt6_core_advanced/build-qt6ca-3-7-Desktop_x86_darwin_generic_mach_o_64bit-Debug/CMakeFiles/qt6ca-3-7_autogen_timestamp_deps.dir
+/Users/kaichang/Learning/c++/QT/qt6_core_advanced/build-qt6ca-3-7-Desktop_x86_darwin_generic_mach_o_64bit-Debug/CMakeFiles/qt6ca-3-7_autogen.dir

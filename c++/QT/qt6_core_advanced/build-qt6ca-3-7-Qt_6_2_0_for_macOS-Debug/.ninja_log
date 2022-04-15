@@ -1,0 +1,27 @@
+# ninja log v5
+0	330	1649532543879264215	qt6ca-3-7_autogen/timestamp	fa92b3589838198c
+0	330	1649532543879264215	qt6ca-3-7_autogen/mocs_compilation.cpp	fa92b3589838198c
+0	330	1649532543879264215	/Users/kaichang/Learning/c++/QT/qt6_core_advanced/build-qt6ca-3-7-Qt_6_2_0_for_macOS-Debug/qt6ca-3-7_autogen/timestamp	fa92b3589838198c
+0	330	1649532543879264215	/Users/kaichang/Learning/c++/QT/qt6_core_advanced/build-qt6ca-3-7-Qt_6_2_0_for_macOS-Debug/qt6ca-3-7_autogen/mocs_compilation.cpp	fa92b3589838198c
+331	1560	1649532545105482383	CMakeFiles/qt6ca-3-7.dir/qt6ca-3-7_autogen/mocs_compilation.cpp.o	2ad1dcc909fc805a
+331	1564	1649532545105541044	CMakeFiles/qt6ca-3-7.dir/worker.cpp.o	b7eb513b52ea71b
+331	1566	1649532545112696773	CMakeFiles/qt6ca-3-7.dir/test.cpp.o	6f0c3e37a45679
+331	1643	1649532545190519879	CMakeFiles/qt6ca-3-7.dir/main.cpp.o	a0a3659c04aa4b4
+1643	1736	1649532545296001349	qt6ca-3-7	fd2b31d4b0dff090
+0	36	0	CMakeFiles/clean.additional	4b31d3ad50f79289
+36	43	0	clean	c6e4b2628bdcd798
+3	340	1649533009647875237	qt6ca-3-7_autogen/timestamp	fa92b3589838198c
+3	340	1649533009647875237	qt6ca-3-7_autogen/mocs_compilation.cpp	fa92b3589838198c
+3	340	1649533009647875237	/Users/kaichang/Learning/c++/QT/qt6_core_advanced/build-qt6ca-3-7-Qt_6_2_0_for_macOS-Debug/qt6ca-3-7_autogen/timestamp	fa92b3589838198c
+3	340	1649533009647875237	/Users/kaichang/Learning/c++/QT/qt6_core_advanced/build-qt6ca-3-7-Qt_6_2_0_for_macOS-Debug/qt6ca-3-7_autogen/mocs_compilation.cpp	fa92b3589838198c
+341	1431	1649533010742806054	CMakeFiles/qt6ca-3-7.dir/worker.cpp.o	b7eb513b52ea71b
+340	1451	1649533010760800091	CMakeFiles/qt6ca-3-7.dir/qt6ca-3-7_autogen/mocs_compilation.cpp.o	2ad1dcc909fc805a
+340	1456	1649533010766109099	CMakeFiles/qt6ca-3-7.dir/test.cpp.o	6f0c3e37a45679
+340	1511	1649533010824062643	CMakeFiles/qt6ca-3-7.dir/main.cpp.o	a0a3659c04aa4b4
+1511	1597	1649533010916168485	qt6ca-3-7	fd2b31d4b0dff090
+7	72	1649534029971452664	qt6ca-3-7_autogen/timestamp	fa92b3589838198c
+7	72	1649534029971452664	qt6ca-3-7_autogen/mocs_compilation.cpp	fa92b3589838198c
+7	72	1649534029971452664	/Users/kaichang/Learning/c++/QT/qt6_core_advanced/build-qt6ca-3-7-Qt_6_2_0_for_macOS-Debug/qt6ca-3-7_autogen/timestamp	fa92b3589838198c
+7	72	1649534029971452664	/Users/kaichang/Learning/c++/QT/qt6_core_advanced/build-qt6ca-3-7-Qt_6_2_0_for_macOS-Debug/qt6ca-3-7_autogen/mocs_compilation.cpp	fa92b3589838198c
+74	1215	1649534031105318501	CMakeFiles/qt6ca-3-7.dir/main.cpp.o	a0a3659c04aa4b4
+1215	1307	1649534031203182401	qt6ca-3-7	fd2b31d4b0dff090

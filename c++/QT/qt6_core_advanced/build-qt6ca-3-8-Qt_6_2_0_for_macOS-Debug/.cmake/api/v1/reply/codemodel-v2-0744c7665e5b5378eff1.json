@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "qt6ca-3-8",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "qt6ca-3-8::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-qt6ca-3-8-Debug-dcb941c5dd04f03edf5e.json",
+					"name" : "qt6ca-3-8",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "qt6ca-3-8_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-qt6ca-3-8_autogen-Debug-40cbfc7b45af73295994.json",
+					"name" : "qt6ca-3-8_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "qt6ca-3-8_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-qt6ca-3-8_autogen_timestamp_deps-Debug-63c1d725cf93630e4ec4.json",
+					"name" : "qt6ca-3-8_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/kaichang/Learning/c++/QT/qt6_core_advanced/build-qt6ca-3-8-Qt_6_2_0_for_macOS-Debug",
+		"source" : "/Users/kaichang/Learning/c++/QT/qt6_core_advanced/qt6ca-3-8"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

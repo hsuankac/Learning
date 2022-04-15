@@ -1,0 +1,60 @@
+{
+  "_buildCommand2" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : true,
+    "targets" : null
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "a951f0f0f5d9be1b322c4c4785b4963e761894b68f7ac43cabed2414d4328f97"
+    }
+  ],
+  "containerPath" : "/Users/kaichang/Desktop/DS_Algo/c/matrix/matrix.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "indexbuild",
+    "activeArchitecture" : "x86_64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "macosx",
+      "sdk" : "macosx12.3",
+      "sdkVariant" : "macos",
+      "supportedArchitectures" : [
+        "x86_64h",
+        "x86_64"
+      ],
+      "targetArchitecture" : "x86_64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/kaichang/Desktop/DS_Algo/matrix/matrix-cuwfestauwbzwihhfmiwwqmmzghz/Index/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/kaichang/Desktop/DS_Algo/matrix/matrix-cuwfestauwbzwihhfmiwwqmmzghz/Index/Build/Products",
+      "derivedDataPath" : "/Users/kaichang/Desktop/DS_Algo/matrix",
+      "indexDataStoreFolderPath" : "/Users/kaichang/Desktop/DS_Algo/matrix/matrix-cuwfestauwbzwihhfmiwwqmmzghz/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/kaichang/Desktop/DS_Algo/matrix/matrix-cuwfestauwbzwihhfmiwwqmmzghz/Index/PrecompiledHeaders",
+      "pchPath" : "/Users/kaichang/Desktop/DS_Algo/matrix/matrix-cuwfestauwbzwihhfmiwwqmmzghz/Index/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "INDEX_ARENA_INFO_REGULAR_BUILD_PRODUCTS_DIR" : "/Users/kaichang/Desktop/DS_Algo/c/matrix/Build/Products",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "utility",
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}
