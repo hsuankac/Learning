@@ -4,10 +4,19 @@
    <Group
       location = "container:"
       name = "c++">
+      <FileRef
+         location = "group:LinkedListCPP/LinkedListCPP.xcodeproj">
+      </FileRef>
    </Group>
    <Group
       location = "container:"
       name = "c">
+      <FileRef
+         location = "group:DoublyLL/DoublyLL.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:CircularLinkedList/CircularLinkedList.xcodeproj">
+      </FileRef>
       <FileRef
          location = "group:LinkedListOperation/LinkedListOperation.xcodeproj">
       </FileRef>
