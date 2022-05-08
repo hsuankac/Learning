@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <Group
+      location = "container:"
+      name = "c++">
+      <FileRef
+         location = "group:InfixToPostfixCPP/InfixToPostfixCPP.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:ExtendParenthesisMatching/ExtendParenthesisMatching.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:StackLLCPP/StackLLCPP.xcodeproj">
+      </FileRef>
+   </Group>
+   <Group
+      location = "container:"
+      name = "c">
+      <FileRef
+         location = "group:StackLL/StackLL.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:StackArray/StackArray.xcodeproj">
+      </FileRef>
+   </Group>
+</Workspace>

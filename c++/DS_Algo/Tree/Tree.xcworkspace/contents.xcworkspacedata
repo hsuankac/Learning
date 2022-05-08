@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <Group
+      location = "container:"
+      name = "c++">
+      <FileRef
+         location = "group:TreeIterativeCpp/TreeIterativeCpp.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:TreeCpp/TreeCpp.xcodeproj">
+      </FileRef>
+   </Group>
+   <Group
+      location = "container:"
+      name = "c">
+      <FileRef
+         location = "group:Tree/Tree.xcodeproj">
+      </FileRef>
+   </Group>
+</Workspace>

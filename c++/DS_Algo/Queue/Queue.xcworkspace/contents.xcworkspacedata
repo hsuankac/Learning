@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <Group
+      location = "container:"
+      name = "c++">
+      <FileRef
+         location = "group:QueueArrayCPP/QueueArrayCPP.xcodeproj">
+      </FileRef>
+   </Group>
+   <Group
+      location = "container:"
+      name = "c">
+      <FileRef
+         location = "group:QueueLinkedList/QueueLinkedList.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:QueueArray/QueueArray.xcodeproj">
+      </FileRef>
+   </Group>
+</Workspace>
