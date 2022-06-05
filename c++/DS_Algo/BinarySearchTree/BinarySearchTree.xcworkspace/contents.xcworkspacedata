@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <Group
+      location = "container:"
+      name = "c++">
+   </Group>
+   <Group
+      location = "container:"
+      name = "c">
+      <FileRef
+         location = "group:BST/BST.xcodeproj">
+      </FileRef>
+   </Group>
+</Workspace>
