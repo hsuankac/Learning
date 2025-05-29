@@ -1,8 +1,8 @@
 #include <stdio.h>
 
-void spiralPrint(int rows, int cols, int matrix[rows][cols]) {
-    int top = 0, bottom = rows - 1;
-    int left = 0, right = cols - 1;
+void spiralPrint(int matrix[3][3]) {
+    int top = 0, bottom = 3 - 1;
+    int left = 0, right = 3 - 1;
 
     while (top <= bottom && left <= right) {
         // Print top row
@@ -40,7 +40,7 @@ int main() {
         {7, 8, 9}
     };
 
-    spiralPrint(3, 3, matrix);
+    spiralPrint(matrix);
 
     return 0;
 }
